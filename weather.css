@@ -1,0 +1,27 @@
+#body {
+  background: black;
+}
+
+#subbody {
+  color: whitesmoke;
+  text-align: center;
+}
+
+#subbody #weatherbox {
+  background: black;
+  width: 50%;
+  
+  margin: 5% auto;
+  border: 5px solid white;
+  
+}
+h1 {
+  color: blue;
+}
+
+#cur-temp {
+  font-size: 250%;
+}
+#weather-image {
+  width: 60%;
+}
